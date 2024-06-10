@@ -1,17 +1,28 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+![App Screenshot](./Ph.png)
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is a simple weather app built with Flutter. It provides current weather information as well as hourly forecasts.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Current weather information
+- Hourly weather forecast
+- Additional weather details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Weather-App-Flutter
+## Installation
+
+To run this project, you'll need to have Flutter installed on your computer. After that, you can clone this repository and run the app on your local machine.
+
+```bash
+git clone https://github.com/lavkushry/Weather-App-Flutter.git
+cd weather_app
+flutter run
+
+Usage
+Provide instructions on how to use your app.
+
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
